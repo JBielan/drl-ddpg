@@ -56,7 +56,7 @@ The observation space consists of 33 variables corresponding to position, rotati
 
 ## Author
 
-* **Jakub Bielan**
+* [**Jakub Bielan**](https://www.linkedin.com/in/jakub-bielan-7334b7137/)
 
 ## License
 

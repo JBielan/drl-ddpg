@@ -2,6 +2,8 @@
 
 The objective of [Unity's Reacher](https://www.youtube.com/watch?v=2N9EoF6pQyE&feature=youtu.be) environment is to move the 20 double-jointed arms to reach and maintain a target location for as long as possible.
 
+![alt text](https://github.com/JBielan/drl-ddpg/blob/master/reacher.gif)
+
 ## Getting Started
 
 ### Dependencies
